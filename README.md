@@ -23,12 +23,12 @@ I spent 10 years ranking websites, studying how millions of people search, click
 
 > Real users, real URLs. Tools built by someone who's studied millions of user journeys.
 
-- 🔗 **[upload.nafran.com][upload]** – Drop a file, get a link. Up to 1GB, auto-deletes in 30 min. CLI support. `React 19` `TanStack Start` `Vercel Blob`
-- 🌐 **[host.nafran.com][host]** – Drop HTML or paste code, get instant hosting. Zero signup. `React` `Supabase` `Cloudflare Pages`
-- 📝 **[counter.nafran.com][counter]** – Word counter & text analysis for writers. Reading level, keyword density, AI token estimation. `Pure HTML/CSS/JS` `Zero dependencies`
-- 🧹 **[Website HTML Extractor][extractor]** – Extract clean HTML from any website. Strips JS, CSS, scripts. Keeps structure and meta.
-- 🎬 **[yt-web-downloader][ytdl]** – YouTube downloader with modern UI. 1000+ platforms. `Next.js` `Framer Motion` `yt-dlp`
-- 📜 **[Vimeo Transcript][vimeo]** – Extract and download transcripts from Vimeo videos.
+- 🔗 **[upload.nafran.com][upload]** – Drop a file, get a link. Up to 1GB, auto-deletes in 30 min. CLI support. [[Source][upload-src]] `React 19` `TanStack Start` `Vercel Blob`
+- 🌐 **[host.nafran.com][host]** – Drop HTML or paste code, get instant hosting. Zero signup. [[Source][host-src]] `React` `Supabase` `Cloudflare Pages`
+- 📝 **[counter.nafran.com][counter]** – Word counter & text analysis for writers. Reading level, keyword density, AI token estimation. [[Source][counter-src]] `Pure HTML/CSS/JS` `Zero dependencies`
+- 🧹 **[Website HTML Extractor][extractor]** – Extract clean HTML from any website. Strips JS, CSS, scripts. Keeps structure and meta. [[Source][extractor]]
+- 🎬 **[yt-web-downloader][ytdl]** – YouTube downloader with modern UI. 1000+ platforms. [[Source][ytdl]] `Next.js` `Framer Motion` `yt-dlp`
+- 📜 **[Vimeo Transcript][vimeo]** – Extract and download transcripts from Vimeo videos. [[Source][vimeo]]
 
 <details>
 <summary><b>More projects</b></summary>
@@ -102,8 +102,11 @@ Simple tools. Zero friction. Built by someone who actually understands users.
 [oss]: https://onesmartsheep.com
 
 [upload]: https://upload.nafran.com
+[upload-src]: https://github.com/aamirmursleen/file-share
 [host]: https://host.nafran.com
+[host-src]: https://github.com/aamirmursleen/quick-share-html
 [counter]: https://counter.nafran.com
+[counter-src]: https://github.com/aamirmursleen/wordcounter2
 [extractor]: https://github.com/aamirmursleen/Website-HTML-Extractor
 [vimeo]: https://github.com/aamirmursleen/download-vimeo-transcript
 [ytdl]: https://github.com/aamirmursleen/yt-web-downloader
