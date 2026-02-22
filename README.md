@@ -1,6 +1,6 @@
 # I'm Aamir
 
-**Lahore** · **Founder [CalendarJet](https://calendarjet.com)** · **Featured on [Semrush][semrush-article] & [Ahrefs][ahrefs]** · **10 Years in SEO**
+**Lahore** · **Founder [CalendarJet](https://calendarjet.com)** · **Featured on [Semrush][semrush-article] & [Ahrefs][ahrefs-mention]** · **10 Years in SEO**
 
 [![SEO][badge-seo]][x]
 [![TypeScript][badge-ts]][x]
@@ -46,8 +46,8 @@ Before code, I spent 10 years in the SEO trenches. Some highlights:
 **Press & Publications**
 - 📰 **[Semrush Blog][semrush-article]** — *"Google NLP API Tool: Optimize Your Content to the Next Level"* — world's most-read SEO blog
 - 📰 **[ProPakistani][propakistani-article]** — *"Buying a Laptop? Keep These 9 Useful Tips in Mind"* — Pakistan's #1 tech publication
-- 📰 **Dawn** — Pakistan's most widely-read English newspaper
-- 📰 **Ahrefs** — Referenced for SEO methodology
+- 📰 **[Dawn][dawn-article]** — Pakistan's most widely-read English newspaper
+- 📰 **[Ahrefs][ahrefs-mention]** — Featured on Ahrefs Instagram
 
 **Results**
 - 📈 **20K → 528K pageviews/month** — Top Study World, scaled over 7 years
@@ -97,7 +97,8 @@ Simple tools. Zero friction. Built by someone who actually understands users.
 <!-- Links -->
 [semrush-article]: https://www.semrush.com/blog/google-nlp-api/
 [propakistani-article]: https://propakistani.pk/2018/09/04/buying-a-laptop-keep-these-9-useful-tips-in-mind/
-[ahrefs]: https://ahrefs.com
+[ahrefs-mention]: https://www.instagram.com/p/B41qWR6ppNZ/?hl=en&img_index=7
+[dawn-article]: https://www.dawn.com/news/1203026
 [cryptonary]: https://cryptonary.com
 [oss]: https://onesmartsheep.com
 
